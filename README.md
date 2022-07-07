@@ -1,5 +1,16 @@
 # TourOfHeroes
 
+The Tour of Heroes application is built to help a staffing agency manage its stable of heroes. This application is built with **Angular** as a learning project.
+
+## I Learned how to
+
+- Create Angular Components from the CLI to show the application's views
+- Create Angular Services to manage data between the components
+- Use the Angular Router to navigate between views
+- Use property biding and event biding
+- Format data with Angular built in pipes
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
