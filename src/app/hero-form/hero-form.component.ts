@@ -24,5 +24,9 @@ export class HeroFormComponent implements OnInit {
     this.submitted = true;
   }
 
+  newHero() {
+    this.model = new Hero(Math.floor(Math.random() * 100), '', '')
+  }
+
   ngOnInit(): void {}
 }
